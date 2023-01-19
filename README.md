@@ -1,2 +1,2 @@
 # mbgsite
-Website files for mind booster gaming
+Website for media tech showcase
